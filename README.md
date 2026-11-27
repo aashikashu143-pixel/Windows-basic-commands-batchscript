@@ -109,6 +109,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 ## OUTPUT
 
 
+<img width="888" height="267" alt="image" src="https://github.com/user-attachments/assets/b52572cb-3c7b-4437-8aab-83529311b023" />
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -118,6 +119,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
+<img width="883" height="201" alt="image" src="https://github.com/user-attachments/assets/ef77477b-5563-4881-9c30-6dd153010af6" />
 
 
 
@@ -132,6 +134,9 @@ Expected Output (if the file exists):
 ## OUTPUT
 
 
+<img width="853" height="89" alt="image" src="https://github.com/user-attachments/assets/429c3a3c-d9fc-4812-8025-12fec247128b" />
+
+
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
@@ -141,6 +146,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+<img width="829" height="404" alt="image" src="https://github.com/user-attachments/assets/21fd9632-9905-43af-8e1a-6f6e52225b75" />
 
 
 # RESULT:
