@@ -28,29 +28,52 @@ Create a directory named "my-folder"
 
 Remove the directory "my-folder"
 
+<img width="961" height="187" alt="image" src="https://github.com/user-attachments/assets/975e0a91-221c-454b-badd-364104f5a118" />
+
+
 ## COMMAND AND OUTPUT
+
+<img width="930" height="250" alt="image" src="https://github.com/user-attachments/assets/969ea16e-dd12-4ab4-8613-fbfd827b8bc9" />
 
 
 Create the file Rose.txt
 
+<img width="858" height="217" alt="image" src="https://github.com/user-attachments/assets/4fba3706-19d1-43fc-9779-293bf5932cc7" />
+
+
 ## COMMAND AND OUTPUT
+
+
+<img width="858" height="217" alt="image" src="https://github.com/user-attachments/assets/251a8945-37a4-4bed-a062-182efd46e3e1" />
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
+<img width="1055" height="111" alt="image" src="https://github.com/user-attachments/assets/7ddebf54-a468-47a9-8c6b-f4f013a8b164" />
+
+
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+
+
+<img width="1055" height="111" alt="image" src="https://github.com/user-attachments/assets/f205be2b-e696-46d6-94cf-342275083fbf" />
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
+<img width="638" height="867" alt="image" src="https://github.com/user-attachments/assets/37a81d6d-46de-4411-9d9a-307e0226b271" />
+
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+
+<img width="872" height="200" alt="image" src="https://github.com/user-attachments/assets/a615eaa2-aa65-4794-81e4-5d14e27631fd" />
+
 
 List out all the associated file extensions 
 
@@ -70,6 +93,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
+<img width="882" height="106" alt="image" src="https://github.com/user-attachments/assets/6891a361-4a14-4d61-9fdf-8b491378937c" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
